@@ -2,3 +2,4 @@
 rtthread.bin
 rtthread.hex
 rtthread.elf
+rt-thread.map
