@@ -1,0 +1,3 @@
+*.o
+rtthread.bin
+rtthread.hex
