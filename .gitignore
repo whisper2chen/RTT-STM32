@@ -1,3 +1,4 @@
 *.o
 rtthread.bin
 rtthread.hex
+rtthread.elf
